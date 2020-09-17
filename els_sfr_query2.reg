@@ -1,0 +1,22 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+circle(0:42:43.900,+41:16:22.90,5") # color=cyan width=3 font="helvetica 10 normal"
+circle(0:42:45.500,+41:15:44.00,5") # color=cyan width=3 font="helvetica 10 normal"
+circle(0:42:45.900,+41:16:11.40,5") # color=cyan width=3 font="helvetica 10 normal"
+box(0:42:44.100,+41:15:42.00,60",60",0) # color=red width=3 font="helvetica 12 normal" text={Melchior M31-1a}
+box(0:42:44.645,+41:15:55.86,170",170",0) # color=red width=3 font="helvetica 16 normal" text={Melchoir Fig 2 FOV}
+line(0:42:44.100,+41:15:42.00,0:42:45.497,+41:15:43.97) # line=0 0
+circle(0:42:46.17,+41:16:12.04,3") # color=magenta width=3 font="helvetica 10 normal" text={#36}
+circle(0:42:46.17,+41:15:33.7,3") # color=magenta width=3 font="helvetica 10 normal" text={#35}
+circle(0:42:45.37,+41:15:48.04,3") # color=magenta width=3 font="helvetica 10 normal" text={#28}
+circle(0:42:45.37,+41:15:24.04,3") # color=magenta width=3 font="helvetica 10 normal" text={#26}
+circle(0:42:44.57,+41:16:12.04,3") # color=magenta width=3 font="helvetica 10 normal" text={#24}
+circle(0:42:44.57,+41:16:0.01,3") # color=magenta width=3 font="helvetica 10 normal" text={#23}
+circle(0:42:44.57,+41:15:48.04,3") # color=magenta width=3 font="helvetica 10 normal" text={#22}
+circle(0:42:44.57,+41:15:36.04,3") # color=magenta width=3 font="helvetica 10 normal" text={#21}
+circle(0:42:44.17,+41:15:12.04,3") # color=magenta width=3 font="helvetica 10 normal" text={#19}
+circle(0:42:43.77,+41:16:4.64,3") # color=magenta width=3 font="helvetica 10 normal" text={#18}
+circle(0:42:43.77,+41:16:0.04,3") # color=magenta width=3 font="helvetica 10 normal" text={#17}
+circle(0:42:43.77,+41:15:36.04,3") # color=magenta width=3 font="helvetica 10 normal" text={#15}
+circle(0:42:42.17,+41:16:0.01,3") # color=magenta width=3 font="helvetica 10 normal" text={#5}

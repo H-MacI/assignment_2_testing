@@ -1,0 +1,176 @@
+; IDL Version 8.3, Mac OS X (darwin x86_64 m64)
+; Journal File for peeters@Peerless
+; Working directory: /Users/peeters/Dropbox/Dimuthu/nucleus
+; Date: Wed Aug 26 19:44:36 2015
+ 
+.r fig_m31nuc_norm54
+ fig_m31nuc_norm54
+;Clearing !P.T, old value =       1.0000000       0.0000000       0.0000000
+;       0.0000000
+;       0.0000000       1.0000000       0.0000000       0.0000000
+;       0.0000000       0.0000000       1.0000000       0.0000000
+;       0.0000000       0.0000000       0.0000000       1.0000000
+;Multiplied all fluxes by:     0.0020218395
+.r fig_m31nuc_norm54
+ fig_m31nuc_norm54
+;Clearing !P.CHARTHICK, old value =      3.00000
+;Clearing !P.THICK, old value =      5.00000
+;Clearing !X.THICK, old value =      5.00000
+;Clearing !Y.THICK, old value =      5.00000
+;Clearing !X.CHARSIZE, old value =      1.40000
+;Clearing !Y.CHARSIZE, old value =      1.40000
+;Multiplied all fluxes by:     0.0020218395
+.r fig_m31nuc_norm54
+ fig_m31nuc_norm54
+;Clearing !P.CHARTHICK, old value =      3.00000
+;Clearing !P.THICK, old value =      5.00000
+;Clearing !X.THICK, old value =      5.00000
+;Clearing !Y.THICK, old value =      5.00000
+;Clearing !X.CHARSIZE, old value =      1.40000
+;Clearing !Y.CHARSIZE, old value =      1.40000
+;Multiplied all fluxes by:     0.0020218395
+.r fig_m31nuc_norm54
+ fig_m31nuc_norm54
+;Clearing !P.CHARTHICK, old value =      3.00000
+;Clearing !P.THICK, old value =      5.00000
+;Clearing !X.THICK, old value =      5.00000
+;Clearing !Y.THICK, old value =      5.00000
+;Clearing !X.CHARSIZE, old value =      1.40000
+;Clearing !Y.CHARSIZE, old value =      1.40000
+;Multiplied all fluxes by:     0.0020218395
+.r fig_m31nuc_norm54
+ fig_m31nuc_norm54
+;Clearing !P.CHARTHICK, old value =      3.00000
+;Clearing !P.THICK, old value =      5.00000
+;Clearing !X.THICK, old value =      5.00000
+;Clearing !Y.THICK, old value =      5.00000
+;Clearing !X.CHARSIZE, old value =      1.40000
+;Clearing !Y.CHARSIZE, old value =      1.40000
+;Multiplied all fluxes by:     0.0020218395
+.r fig_m31nuc_norm54
+ fig_m31nuc_norm54
+;Clearing !P.CHARTHICK, old value =      3.00000
+;Clearing !P.THICK, old value =      5.00000
+;Clearing !X.THICK, old value =      5.00000
+;Clearing !Y.THICK, old value =      5.00000
+;Clearing !X.CHARSIZE, old value =      1.40000
+;Clearing !Y.CHARSIZE, old value =      1.40000
+;Multiplied all fluxes by:     0.0020218395
+.r fig_m31nuc_norm54
+ fig_m31nuc_norm54
+;Clearing !P.CHARTHICK, old value =      3.00000
+;Clearing !P.THICK, old value =      5.00000
+;Clearing !X.THICK, old value =      5.00000
+;Clearing !Y.THICK, old value =      5.00000
+;Clearing !X.CHARSIZE, old value =      1.40000
+;Clearing !Y.CHARSIZE, old value =      1.40000
+;Multiplied all fluxes by:     0.0020218395
+.r fig_m31nuc_norm54
+ fig_m31nuc_norm54
+;Clearing !P.CHARTHICK, old value =      3.00000
+;Clearing !P.THICK, old value =      5.00000
+;Clearing !X.THICK, old value =      5.00000
+;Clearing !Y.THICK, old value =      5.00000
+;Clearing !X.CHARSIZE, old value =      1.40000
+;Clearing !Y.CHARSIZE, old value =      1.40000
+;Multiplied all fluxes by:     0.0020218395
+.r fig_m31nuc_norm54
+ fig_m31nuc_norm54
+;Clearing !P.CHARTHICK, old value =      3.00000
+;Clearing !P.THICK, old value =      5.00000
+;Clearing !X.THICK, old value =      5.00000
+;Clearing !Y.THICK, old value =      5.00000
+;Clearing !X.CHARSIZE, old value =      1.40000
+;Clearing !Y.CHARSIZE, old value =      1.40000
+;Multiplied all fluxes by:     0.0020218395
+.r fig_m31nuc_norm54
+ fig_m31nuc_norm54
+;Clearing !P.CHARTHICK, old value =      3.00000
+;Clearing !P.THICK, old value =      5.00000
+;Clearing !X.THICK, old value =      5.00000
+;Clearing !Y.THICK, old value =      5.00000
+;Clearing !X.CHARSIZE, old value =      1.40000
+;Clearing !Y.CHARSIZE, old value =      1.40000
+;Multiplied all fluxes by:     0.0020218395
+.r fig_m31nuc_norm54
+ fig_m31nuc_norm54
+;Clearing !P.CHARTHICK, old value =      3.00000
+;Clearing !P.THICK, old value =      5.00000
+;Clearing !X.THICK, old value =      5.00000
+;Clearing !Y.THICK, old value =      5.00000
+;Clearing !X.CHARSIZE, old value =      1.40000
+;Clearing !Y.CHARSIZE, old value =      1.40000
+;Multiplied all fluxes by:     0.0020218395
+.r fig_m31nuc_norm54
+ fig_m31nuc_norm54
+;Clearing !P.CHARTHICK, old value =      3.00000
+;Clearing !P.THICK, old value =      5.00000
+;Clearing !X.THICK, old value =      5.00000
+;Clearing !Y.THICK, old value =      5.00000
+;Clearing !X.CHARSIZE, old value =      1.40000
+;Clearing !Y.CHARSIZE, old value =      1.40000
+;Multiplied all fluxes by:     0.0020218395
+.r fig_m31nuc_norm54
+ fig_m31nuc_norm54
+;Clearing !P.CHARTHICK, old value =      3.00000
+;Clearing !P.THICK, old value =      5.00000
+;Clearing !X.THICK, old value =      5.00000
+;Clearing !Y.THICK, old value =      5.00000
+;Clearing !X.CHARSIZE, old value =      1.40000
+;Clearing !Y.CHARSIZE, old value =      1.40000
+;Multiplied all fluxes by:     0.0020218395
+.r fig_m31nuc_norm54
+.r fig_m31nuc_norm54
+ fig_m31nuc_norm54
+;Clearing !P.CHARTHICK, old value =      3.00000
+;Clearing !P.THICK, old value =      5.00000
+;Clearing !X.THICK, old value =      5.00000
+;Clearing !Y.THICK, old value =      5.00000
+;Clearing !X.CHARSIZE, old value =      1.40000
+;Clearing !Y.CHARSIZE, old value =      1.40000
+;Multiplied all fluxes by:     0.0020218395
+.r fig_m31nuc_norm54
+ fig_m31nuc_norm54
+;Clearing !P.CHARTHICK, old value =      3.00000
+;Clearing !P.THICK, old value =      5.00000
+;Clearing !X.THICK, old value =      5.00000
+;Clearing !Y.THICK, old value =      5.00000
+;Clearing !X.CHARSIZE, old value =      1.40000
+;Clearing !Y.CHARSIZE, old value =      1.40000
+;Multiplied all fluxes by:     0.0020218395
+.r fig_m31nuc_norm54
+ fig_m31nuc_norm54
+;Clearing !P.CHARTHICK, old value =      3.00000
+;Clearing !P.THICK, old value =      5.00000
+;Clearing !X.THICK, old value =      5.00000
+;Clearing !Y.THICK, old value =      5.00000
+;Clearing !X.CHARSIZE, old value =      1.40000
+;Clearing !Y.CHARSIZE, old value =      1.40000
+;Multiplied all fluxes by:     0.0020218395
+.r fig_m31nuc_norm54
+ fig_m31nuc_norm54
+;Clearing !P.CHARTHICK, old value =      3.00000
+;Clearing !P.THICK, old value =      5.00000
+;Clearing !X.THICK, old value =      5.00000
+;Clearing !Y.THICK, old value =      5.00000
+;Clearing !X.CHARSIZE, old value =      1.40000
+;Clearing !Y.CHARSIZE, old value =      1.40000
+;Multiplied all fluxes by:     0.0020218395
+.r fig_m31nuc_norm54
+ fig_m31nuc_norm54
+;Clearing !P.CHARTHICK, old value =      3.00000
+;Clearing !P.THICK, old value =      5.00000
+;Clearing !X.THICK, old value =      5.00000
+;Clearing !Y.THICK, old value =      5.00000
+;Clearing !X.CHARSIZE, old value =      1.40000
+;Clearing !Y.CHARSIZE, old value =      1.40000
+;Multiplied all fluxes by:     0.0020218395
+.r fig_m31nuc_norm54
+ fig_m31nuc_norm54
+;Clearing !P.CHARTHICK, old value =      3.00000
+;Clearing !P.THICK, old value =      5.00000
+;Clearing !X.THICK, old value =      5.00000
+;Clearing !Y.THICK, old value =      5.00000
+;Clearing !X.CHARSIZE, old value =      1.40000
+;Clearing !Y.CHARSIZE, old value =      1.40000
+;Multiplied all fluxes by:     0.0020218395

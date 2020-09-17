@@ -1,0 +1,7 @@
+checks_m31_nucleus.pro: program to run adapted pahfit program
+NucUp_pahfit.png: fig of final fit + individual components of 'Up' sp.
+NucCentre_pahfit.png: fig of final fit + individual components of 'Centre' sp.
+pahfit_nucCentre_report.txt: parameters of all fitting components for Centre
+pahfit_nucCentre.xdr: structure you get back from pahfit with results for Centre
+pahfit_nucUp.xdr: structure you get back from pahfit with results for Up
+pahfit_nucUp_report.txt parameters of all fitting components for Up

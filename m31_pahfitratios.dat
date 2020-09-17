@@ -1,0 +1,22 @@
+6.2um/11.2um
+PAHFITmethod         1.1860262
+nuclearmethod        0.13960276
+7.7um Complex/11.2um
+PAHFITmethod        0.79810751
+nuclearmethod        0.79365969
+8.6um/11.2um
+PAHFITmethod         0.0000000
+nuclearmethod      0.0043311347
+17um Complex/11.2um
+PAHFITmethod        0.51656635
+nuclearmethod        0.46062372
+
+Averages SINGS sample: table 7 Smith et al. 2007
+
+Kaneda et al. 2008:
+As for PAH 7.7*/11.3, 12 out of 15 data points in Figure 4 have significantly
+(>3 sigma) small values as compared to the ratio of ~4.2 that is the median of the galaxies with Hii region or starburst-like optical spectra in the SINGS sample (Fig. 14 in Smith et al. 2007). They also exhibit systematically lower values than 2.0 – 3.3 for Galactic diffuse emission (Sakon et al. 2004) and 1.8–3.0 for normal galaxies (Lu et al. 2003), both of which were estimated
+by spline-based continuum fitting. Because the full decomposition by PAHFIT produces PAH 7.7/11.3 ratios about 2 times larger than the conventional spline-based fitting (Smith et al. 2007), the differences are significant for most of the galaxies. On the other hand, the mean value (~0.6) of the PAH 17/11.3 ratios is close to the ratio of ~0.5 averaged over all the
+SINGS sample galaxies, thus exhibiting usual interband strength
+ratios as a whole, although they have a large scatter.
+

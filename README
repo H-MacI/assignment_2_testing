@@ -1,0 +1,10 @@
+*nucCentre.tbl are spectra extracted from 5"x5" box at the
+position of the nucleus.
+
+*nucUP.tbl are spectra extracted from 5"x5" box to the North
+(where the bright 11.3um feature is)
+
+*sp.tbl are spectra extracted over the full 30"x50" cube.
+
+m31nuc*.fits are the cubes as we got them from STScI. 95% sure these
+are the ones that Dimuthu extracted from (although I need to check this).

@@ -1,0 +1,37 @@
+analysis nucleus
+--------------------
+
+
+- compare nucleus (small/large ap) & north: scaled at 5.4um:
+  * north sp = nuc large ap + PAHs + more intense fs lines (continuum is identical when scaled at 5.4um!)
+  * nuc small/large ap: identical continuum upto 13.5um. After that large ap has increased flux in continuum. Large ap: PAHs, increased fs lines
+  * stellar contribution is not expected to change spatially -- nucleus small = stellar + silicate emission(stellar?) --> subtract from north position and you're left with spectrum of north region alone (sf?). (that's assuming silicate em is stellar). 
+  
+
+
+
+WRONG SPECTRUM. M31 nucleus - north:
+
+- strange feature at 5.7 - not sure if this is real but didn't find any (global) bad pixels in map which removed it.; errorbars not particularly larger than elsewhere.
+
+- comparison with nu Pav (M giant) (m31nuc_north_nupav.png):
+  	     * normalize at 5.3: until 9um the emission is 100% stellar.
+	       Beyond 9um: we have a bump from 9-13.5 with 11.2 on top (maybe 12.7) and the 15-20 plateau + Ne/S, we don't reach zero flux levels between the two plateaus.
+	     * normalize at 5.4 (in the wing of the 5.7 'abs' feat): the spectrum of nu pav remains a fixed amount (89%) underneath the spectrum of the north but shape is the same
+	     ==> seems to suggest that normalization should be done at 5.3um
+	     ==> this can be double checked based on NIR 2MASS fluxes	     
+
+- comparison with quiescent elliptical galaxy (m31nuc_north_quiescentgal.png):
+	     * normalize at 5.4 (in the wing of the 5.7 'abs' feat): the spectrum of gal remains a fixed amount (89%) underneath the spectrum of the north but shape is the similar
+  	     * normalize at 5.3: we do have a slight mismatch here between 8.9-10um as the silicate emission in the quiescent galaxy starts at 8.9um while the 'bump' in the north spectrum only starts around 10-ish; until 7um the emission is 100% stellar; between 7-9 we get some weak emission (7.7+8.6)??; a bump from 11-13.5 with 11.2 on top (maybe 12.7) and the 15-20 plateau + Ne/S, we almost reach zero flux levels between the two plateaus.
+	       ==> does this means that the silicate emission in galaxy is not present in nucleus? ---> that's what we say in the text now & the map of silicate emission shows: .. how was this made?
+	       ==> 'abs' feature may influence detection of 6.2 so should not rely on 6.2
+
+- comparison with nucleus (small ap.) (so north vs. centre):
+  	     * mismatch around 9-10um due to lack of (the same) silicate emission in north region. (in both normalizations 5.3/5.4)
+	     ==> no silicate emission in north or silicate emission is red-shifted (doubtful)
+	     ==> assuming stellar population in north/centre is similar: we can conclude that the centre has additional nuclear silicate emission not present in the stellar spectrum!!
+	     ==> use stellar spectrum from north to subtract it from the centre???
+
+
+

@@ -1,0 +1,9 @@
+# Region file format: DS9 version 4.1
+# Filename: /Volumes/data/m31/irac_mosaics/m31_4ns_bgsub.fits
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+circle(10.682917,41.273028,5")
+circle(10.689583,41.262222,5")
+circle(10.69125,41.269833,5")
+box(10.68375,41.261667,60",60",0) # color=black font="helvetica 12 normal" text={Melchior M31-1a}
+box(10.686019,41.265517,170",170",0) # color=black font="helvetica 16 normal" text={Melchoir Fig 2 FOV}

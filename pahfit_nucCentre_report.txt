@@ -1,0 +1,165 @@
+===============================================================
+ PAHFIT v1.2 JD Smith & Bruce Draine
+  Thu Nov  6 16:31:18 2014
+===============================================================
+Reduced Chi-Square (statistical errors only):    4.991
+
+
+Starlight: 
+  T_star: 5.00e+03  tau_star: 2.26e-10 ( 1.33e-12 )
+
+
+Dust Continuum: 
+  T_dust:     300.  tau_dust:     0.00 (     0.00 )
+  T_dust:     200.  tau_dust: 2.45e-07 ( 2.90e-09 )
+  T_dust:     135.  tau_dust:     0.00 (     0.00 )
+  T_dust:     90.0  tau_dust:     0.00 (     0.00 )
+  T_dust:     65.0  tau_dust:     0.00 (     0.00 )
+  T_dust:     50.0  tau_dust:     0.00 (     0.00 )
+  T_dust:     40.0  tau_dust:     0.00 (     0.00 )
+  T_dust:     35.0  tau_dust:    0.482 (    0.167 )
+
+
+Lines: 
+      H2 S(7) lam:    5.479 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:   0.0474 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+      H2 S(6) lam:    6.089 (    0.006 ) cen_inten:     6.56 (     1.23 )
+             fwhm:   0.0581 (     0.00 )     power: 3.28e-08 ( 6.17e-09 )
+              eqw:  0.00609
+      H2 S(5) lam:    6.918 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:   0.0478 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+       [ArII] lam:    7.017 (    0.017 ) cen_inten:     2.55 (     1.34 )
+             fwhm:   0.0586 (     0.00 )     power: 9.66e-09 ( 5.08e-09 )
+              eqw:  0.00299
+      H2 S(4) lam:    8.046 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:   0.0902 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+      [ArIII] lam:    9.035 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:   0.0904 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+      H2 S(3) lam:    9.615 (    0.000 ) cen_inten:     3.42 (    0.631 )
+             fwhm:    0.109 (     0.00 )     power: 1.29e-08 ( 2.38e-09 )
+              eqw:   0.0113
+         Sil9 lam:   10.484 (    0.029 ) cen_inten:     9.26 (    0.189 )
+             fwhm:     2.80 (     0.00 )     power: 7.53e-07 ( 1.55e-08 )
+              eqw:     -NaN
+        [SIV] lam:   10.491 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:   0.0898 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+      H2 S(2) lam:   12.323 (    0.273 ) cen_inten:    0.148 (    0.634 )
+             fwhm:   0.0903 (     0.00 )     power: 2.80e-10 ( 1.20e-09 )
+              eqw: 0.000514
+       [NeII] lam:   12.821 (    0.010 ) cen_inten:     4.49 (    0.680 )
+             fwhm:    0.110 (     0.00 )     power: 9.59e-09 ( 1.45e-09 )
+              eqw:   0.0198
+      [NeIII] lam:   15.545 (    0.005 ) cen_inten:     6.27 (    0.343 )
+             fwhm:    0.130 (     0.00 )     power: 1.08e-08 ( 5.90e-10 )
+              eqw:   0.0401
+      H2 S(1) lam:   17.014 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:    0.126 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+    [SIII] 18 lam:   18.663 (    0.000 ) cen_inten:     2.67 (    0.354 )
+             fwhm:    0.126 (     0.00 )     power: 3.07e-09 ( 4.08e-10 )
+              eqw:   0.0207
+        Sil18 lam:   19.000 (    0.000 ) cen_inten:     3.15 (    0.159 )
+             fwhm:     2.63 (     0.00 )     power: 7.34e-08 ( 3.70e-09 )
+              eqw:    0.518
+        [OIV] lam:   25.910 (    0.000 ) cen_inten:    0.500 (     0.00 )
+             fwhm:    0.340 (     0.00 )     power: 8.08e-10 (     0.00 )
+              eqw:  0.00615
+       [FeII] lam:   25.989 (    0.000 ) cen_inten:    0.500 (     0.00 )
+             fwhm:    0.340 (     0.00 )     power: 8.03e-10 (     0.00 )
+              eqw:  0.00603
+      H2 S(0) lam:   28.221 (    0.000 ) cen_inten:    0.500 (     0.00 )
+             fwhm:    0.340 (     0.00 )     power: 6.81e-10 (     0.00 )
+              eqw:  0.00326
+    [SIII] 33 lam:   33.480 (    0.000 ) cen_inten:    0.500 (     0.00 )
+             fwhm:    0.340 (     0.00 )     power: 4.84e-10 (     0.00 )
+              eqw: 0.000885
+       [SiII] lam:   34.815 (    0.000 ) cen_inten:    0.500 (     0.00 )
+             fwhm:    0.340 (     0.00 )     power: 4.48e-10 (     0.00 )
+              eqw: 0.000677
+
+
+Dust Features: 
+       DF_5.3 lam:    5.270 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:    0.179 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+       DF_5.7 lam:    5.700 (    0.000 ) cen_inten:     1.16 (    0.826 )
+             fwhm:    0.200 (     0.00 )     power: 3.36e-08 ( 2.39e-08 )
+              eqw:  0.00332
+       DF_6.2 lam:    6.220 (    0.000 ) cen_inten:     9.73 (    0.736 )
+             fwhm:    0.187 (     0.00 )     power: 2.21e-07 ( 1.67e-08 )
+              eqw:   0.0300
+       DF_6.7 lam:    6.690 (    0.000 ) cen_inten:     7.57 (    0.641 )
+             fwhm:    0.468 (     0.00 )     power: 3.73e-07 ( 3.16e-08 )
+              eqw:   0.0658
+       DF_7.4 lam:    7.420 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:    0.935 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     -NaN
+       DF_7.6 lam:    7.600 (    0.000 ) cen_inten:    0.448 (    0.902 )
+             fwhm:    0.334 (     0.00 )     power: 1.22e-08 ( 2.46e-08 )
+              eqw:  0.00338
+       DF_7.8 lam:    7.850 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:    0.416 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     -NaN
+       DF_8.3 lam:    8.330 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:    0.417 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+       DF_8.6 lam:    8.610 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:    0.336 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+      DF_10.7 lam:   10.680 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:    0.214 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+      DF_11.2 lam:   11.230 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:    0.135 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+      DF_11.3 lam:   11.330 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:    0.363 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+      DF_12.0 lam:   11.990 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:    0.540 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+      DF_12.6 lam:   12.620 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:    0.530 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+      DF_12.7 lam:   12.690 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:    0.165 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+      DF_13.5 lam:   13.480 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:    0.539 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+      DF_14.0 lam:   14.040 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:    0.225 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+      DF_14.2 lam:   14.190 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:    0.355 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+      DF_15.9 lam:   15.900 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:    0.318 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+      DF_16.4 lam:   16.450 (    0.000 ) cen_inten:    0.898 (    0.308 )
+             fwhm:    0.230 (     0.00 )     power: 3.60e-09 ( 1.23e-09 )
+              eqw:   0.0109
+      DF_17.0 lam:   17.040 (    0.000 ) cen_inten:     2.16 (    0.389 )
+             fwhm:     1.11 (     0.00 )     power: 3.88e-08 ( 6.98e-09 )
+              eqw:    0.131
+      DF_17.4 lam:   17.375 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:    0.208 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+      DF_17.9 lam:   17.870 (    0.000 ) cen_inten:   0.0470 (    0.366 )
+             fwhm:    0.286 (     0.00 )     power: 1.98e-10 ( 1.54e-09 )
+              eqw: 0.000785
+      DF_18.9 lam:   18.920 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:    0.359 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+      DF_33.1 lam:   33.100 (    0.000 ) cen_inten:     0.00 (     0.00 )
+             fwhm:     1.66 (     0.00 )     power:     0.00 (     -NaN )
+              eqw:     0.00
+
+
+Extinction (mixed): 
+       Tau(9.7um):     0.00 (     0.00 ) Beta:   0.10
